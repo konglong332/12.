@@ -1,14 +1,10 @@
 # 12.
-public class Test {
- 
-   public static void main(String args[]){
-      int x = 30;
-      int y = 10;
- 
-      if( x == 30 ){
-         if( y == 10 ){
-             System.out.print("X = 30 and Y = 10");
-          }
-       }
-    }
+public class ClassName {
+   // ...
+}
+private boolean myFlag;
+static final double weeks = 9.5;
+protected static final int BOXWIDTH = 42;
+public static void main(String[] arguments) {
+   // 方法体
 }
